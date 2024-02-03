@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение.md",
+                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/2.Введение. Рациональные числа.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe465753d271c5cb",
+            "id": "926ef97a9f66d336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/0.обозначения.md",
+                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение. Множества и функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение.md",
+                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/2.Введение. Рациональные числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение.md",
+                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/2.Введение. Рациональные числа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение.md"
+                "file": "SpecSpace/SPECIAL/МатАн/Коллоквиум/2.Введение. Рациональные числа.md"
               }
             }
           }
@@ -160,9 +160,16 @@
   },
   "active": "7244b5f8a222a31a",
   "lastOpenFiles": [
+    "SpecSpace/Untitled.canvas",
+    "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение. Множества и функции.md",
     "SpecSpace/SPECIAL/МатАн/Коллоквиум/0.обозначения.md",
-    "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение.md",
+    "SpecSpace/SPECIAL/МатАн/Коллоквиум/4.Введение.Множества. продолжение.md",
+    "README.md",
+    "SpecSpace/SPECIAL/МатАн/Коллоквиум/3.Введение. Вещественные числа.md",
+    "SpecSpace/SPECIAL/МатАн/Коллоквиум/2.Введение. Рациональные числа.md",
+    "SpecSpace/SPECIAL/МатАн/Коллоквиум/4.Введение.Множества.md",
     "SpecSpace/SPECIAL/МатАн/лекции/предел фунции/2 Свойства предела фукнции.md",
+    "SpecSpace/SPECIAL/МатАн/Коллоквиум/1.Введение.md",
     "SpecSpace/SPECIAL/МатАн/Коллоквиум/test.md"
   ]
 }
